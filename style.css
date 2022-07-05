@@ -5,7 +5,7 @@ body {
 }
 
 
-/* //////////First section style///////////// */
+/* //////////Organization section style///////////// */
 
 
 .organization {
@@ -17,29 +17,19 @@ body {
     background-size: 100%;
 }
 
-
-
-
-
-
 .fundrise {
     font-size: 26px;
     width: 500px;
     color: Khaki;
-
-    text-align: center;
     display: inline-block;
+    text-align: center;
+
     margin-top: 18%;
     margin-left: 32%;
-
-
-
 }
 
 .working {
-
     color: #FAF0E6;
-
 }
 
 
@@ -51,7 +41,80 @@ body {
     color: aliceblue;
     background-color: #FFD700;
     border-radius: 9px;
+}
 
 
 
+/* //////////////////////Contribute section///////////////////////////// */
+
+
+
+
+
+/* ---------- today div including h2 h6 ------- */
+.today {
+    font-size: 23px;
+    width: 500px;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 32%;
+}
+
+
+/*----------------------Ammount Indicator -------------------------  */
+.Hundred {
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFDEAD;
+    color: black;
+    width: 120px;
+    padding: 20px 10px 20px 10px;
+    border: 1px solid #696969;
+    margin: 0;
+
+}
+
+/*  */
+.two-hundred {
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFDEAD;
+    color: black;
+    width: 120px;
+    padding: 20px 10px 20px 10px;
+
+    margin: 0;
+}
+
+.five-hundred {
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFDEAD;
+    color: black;
+    width: 120px;
+    padding: 20px 10px 20px 10px;
+
+    margin: 0;
+}
+
+.one-thousand {
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFDEAD;
+    color: black;
+    width: 120px;
+    padding: 20px 10px 20px 10px;
+
+    margin: 0;
+}
+
+.ten-thousand {
+    font-size: 30px;
+    text-align: center;
+    background-color: #FFDEAD;
+    color: black;
+    width: 120px;
+    padding: 20px 10px 20px 10px;
+
+    margin: 0;
 }
