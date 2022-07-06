@@ -152,3 +152,49 @@ input {
     margin-top: 4%;
     margin-bottom: 3%;
 }
+
+
+/* -----------------------------card area------------------------------ */
+
+
+
+
+.services {
+    display: flex;
+
+}
+
+
+
+.medicine {
+    width: 300px;
+    height: 290px;
+
+    padding: 1%;
+    margin-left: 7%;
+    background-color: antiquewhite;
+    border-radius: 5%;
+    box-shadow: 8px 8px 16px #696969;
+}
+
+.bus {
+    width: 300px;
+    height: 290px;
+
+    padding: 1%;
+    margin-left: 7%;
+    background-color: NavajoWhite;
+    border-radius: 5%;
+    box-shadow: 8px 8px 16px #696969;
+}
+
+.blood {
+    width: 300px;
+    height: 290px;
+
+    padding: 1%;
+    margin-left: 7%;
+    background-color: azure;
+    border-radius: 5%;
+    box-shadow: 8px 8px 16px #696969;
+}
