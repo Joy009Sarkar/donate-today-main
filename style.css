@@ -128,3 +128,27 @@ body {
     margin-left: 20%;
 
 }
+
+/* -----------------------ammount input area---------------------------- */
+.ammount-input {
+    text-align: center;
+
+    margin-top: 4%;
+}
+
+
+/* --------------Input tag styles */
+input {
+    background-color: transparent;
+    border: 0px transparent;
+    height: 50px;
+    width: 230px;
+    font-size: 40px;
+
+}
+
+.horizontal {
+    width: 50%;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
