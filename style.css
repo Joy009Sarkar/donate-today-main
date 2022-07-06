@@ -156,15 +156,10 @@ input {
 
 /* -----------------------------card area------------------------------ */
 
-
-
-
 .services {
     display: flex;
 
 }
-
-
 
 .medicine {
     width: 300px;
@@ -197,4 +192,64 @@ input {
     background-color: azure;
     border-radius: 5%;
     box-shadow: 8px 8px 16px #696969;
+}
+
+/* ------------------------creative part |  internet section start----------------------------- */
+
+
+.internet {
+    display: flex;
+
+    text-align: left;
+    width: 40%;
+}
+
+.facts {
+    margin-top: 10%;
+    margin-left: 9%;
+
+}
+
+
+.internet-btn {
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px 32px;
+
+    color: aliceblue;
+    background-color: #FFD700;
+    border-radius: 9px;
+}
+
+.internet-img {
+    margin-top: 20%;
+    width: 50%;
+
+}
+
+
+.internet-img img {
+    width: 500px;
+    display: inline-block;
+    margin-left: 150%;
+}
+
+
+/* ---------------------------------footer-------------------------------------------------------- */
+
+
+.footer-content {
+    text-align: center;
+    background-color: #696969;
+}
+
+.footer-h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 35px;
+
+}
+
+.footer-h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 20px;
 }
